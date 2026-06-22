@@ -1,5 +1,55 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
+### 🚀 Desarrollador Backend | Laravel & PHP
+
+Me apasiona crear soluciones de software eficientes, escalables y con código limpio. Me enfoco principalmente en el desarrollo del lado del servidor, diseño de APIs REST, arquitectura de bases de datos y optimización de rendimiento utilizando el ecosistema de Laravel. Tengo experiencia en ciberseguridad e informática forense. Me gusta mucho dar clases
+
+---
+
+### 🛠️ Mis Tecnologías y Herramientas
+
+#### Backend & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
+
+#### Bases de Datos & Entorno
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### Frontend (Opcional / Con el que convivo)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📈 ¿En qué estoy trabajando actualmente?
+
+- 🔭 Estoy desarrollando [Nombre de tu proyecto principal], una plataforma para [propósito del proyecto] usando Laravel 11.
+- 🌱 Estoy profundizando mis conocimientos en **Patrones de Diseño** y **Pruebas Automatizadas (Pest / PHPUnit)**.
+- 💬 Pregúntame sobre: **Laravel, APIs REST, Eloquent ORM y Autenticación con Sanctum/Breeze.**
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+Aquí puedes ver un resumen de mi actividad técnica:
+
+<!--- Recuerda cambiar "tu-usuario" en los enlaces de abajo por tu usuario real de GitHub --->
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+
+---
+
+### 🤝 Conectemos
+
+¿Tienes un proyecto en mente, una oportunidad laboral o simplemente quieres hablar de código? ¡Escríbeme!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@email.com)
+[![Portfolio](https://img.shields.io/badge/Mi_Portafolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://tu-sitio-web.com)
 <!--
 **vidareversa/vidareversa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
