@@ -20,6 +20,7 @@ Me apasiona crear soluciones de software eficientes, escalables y con código li
 
 #### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg)
 
 ---
 
