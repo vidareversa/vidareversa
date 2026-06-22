@@ -21,7 +21,6 @@ Me apasiona crear soluciones de software eficientes, escalables y con código li
 
 #### Frontend (Opcional / Con el que convivo)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
