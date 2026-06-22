@@ -25,12 +25,6 @@ Me apasiona crear soluciones de software eficientes, escalables y con código li
 
 ---
 
-### 📈 ¿En qué estoy trabajando actualmente?
-
-- 🔭 Estoy desarrollando [Nombre de tu proyecto principal], una plataforma para [propósito del proyecto] usando Laravel 11.
-- 🌱 Estoy profundizando mis conocimientos en **Patrones de Diseño** y **Pruebas Automatizadas (Pest / PHPUnit)**.
-- 💬 Pregúntame sobre: **Laravel, APIs REST, Eloquent ORM y Autenticación con Sanctum/Breeze.**
-
 ---
 
 ### 📊 Mis Estadísticas de GitHub
@@ -38,8 +32,8 @@ Me apasiona crear soluciones de software eficientes, escalables y con código li
 Aquí puedes ver un resumen de mi actividad técnica:
 
 <!--- Recuerda cambiar "tu-usuario" en los enlaces de abajo por tu usuario real de GitHub --->
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=vidareversa&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=vidareversa&layout=compact&theme=radical)
 
 ---
 
@@ -47,9 +41,8 @@ Aquí puedes ver un resumen de mi actividad técnica:
 
 ¿Tienes un proyecto en mente, una oportunidad laboral o simplemente quieres hablar de código? ¡Escríbeme!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@email.com)
-[![Portfolio](https://img.shields.io/badge/Mi_Portafolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://tu-sitio-web.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-g-m/)
+
 <!--
 **vidareversa/vidareversa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
